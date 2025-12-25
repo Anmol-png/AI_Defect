@@ -1,5 +1,5 @@
-import streamlit as st
-from ultralytics import YOLO
-from PIL import Image
-import gdown
-import os
+streamlit
+ultralytics>=8.0.0
+pillow
+opencv-python
+gdown
